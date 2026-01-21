@@ -1,0 +1,102 @@
+[
+  {
+    "Student id": "1001",
+    " Course id": " 2001",
+    " Marks": " 56"
+  },
+  {
+    "Student id": "1002",
+    " Course id": " 2001",
+    " Marks": " 67"
+  },
+  {
+    "Student id": "1003",
+    " Course id": " 2001",
+    " Marks": " 78"
+  },
+  {
+    "Student id": "1004",
+    " Course id": " 2001",
+    " Marks": " 90"
+  },
+  {
+    "Student id": "1005",
+    " Course id": " 2001",
+    " Marks": " 45"
+  },
+  {
+    "Student id": "1001",
+    " Course id": " 2002",
+    " Marks": " 58"
+  },
+  {
+    "Student id": "1002",
+    " Course id": " 2002",
+    " Marks": " 98"
+  },
+  {
+    "Student id": "1009",
+    " Course id": " 2002",
+    " Marks": " 12"
+  },
+  {
+    "Student id": "1007",
+    " Course id": " 2002",
+    " Marks": " 99"
+  },
+  {
+    "Student id": "1008",
+    " Course id": " 2002",
+    " Marks": " 39"
+  },
+  {
+    "Student id": "1003",
+    " Course id": " 2003",
+    " Marks": " 34"
+  },
+  {
+    "Student id": "1004",
+    " Course id": " 2003",
+    " Marks": " 43"
+  },
+  {
+    "Student id": "1000",
+    " Course id": " 2003",
+    " Marks": " 25"
+  },
+  {
+    "Student id": "1060",
+    " Course id": " 2003",
+    " Marks": " 60"
+  },
+  {
+    "Student id": "1090",
+    " Course id": " 2003",
+    " Marks": " 88"
+  },
+  {
+    "Student id": "1005",
+    " Course id": " 2004",
+    " Marks": " 81"
+  },
+  {
+    "Student id": "1080",
+    " Course id": " 2004",
+    " Marks": " 59"
+  },
+  {
+    "Student id": "1030",
+    " Course id": " 2004",
+    " Marks": " 87"
+  },
+  {
+    "Student id": "1001",
+    " Course id": " 2004",
+    " Marks": " 35"
+  },
+  {
+    "Student id": "1090",
+    " Course id": " 2004",
+    " Marks": " 33"
+  }
+]
