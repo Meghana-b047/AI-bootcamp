@@ -1,0 +1,5 @@
+local_setup.sh 
+
+day3_4/local_setup.sh
+day3_4/local_run.sh
+day3_4/.env

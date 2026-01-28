@@ -57,8 +57,6 @@ class EmailValidator():
 
 def read_csv_convert_json(filename): 
 
-    
-
     with open(filename, 'r') as f: 
 
         reader = csv.DictReader(f)
@@ -69,9 +67,8 @@ def read_csv_convert_json(filename):
 
         json.dump(rows, output_file, indent=2)
 
-
-
-        
+#create a function to convert csv to yaml 
+   
 def main(): 
 
     e=EmailValidator('Meghana@gmail.com')
