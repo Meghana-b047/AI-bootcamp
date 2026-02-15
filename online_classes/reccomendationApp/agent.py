@@ -78,7 +78,6 @@ class SearchAgent:
 
             #extract and perform search 
             query = first_response.split("SEARCH_QUERY")[1].strip().replace('"', " ")
-            print(query)
             search_data = self._web_search(query)
 
             #giving search results back to llm 

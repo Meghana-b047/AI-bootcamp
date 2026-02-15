@@ -1,0 +1,42 @@
+ 
+ B Meghana  
+New Delhi  | +91 9030743571  | meghanab0047@gmail.com  
+Objective  
+ 
+Junior Backend Developer with hands -on experience in Python, Flask, and MySQL, focused on building 
+scalable backend systems and RESTful APIs.  Comfortable working across the full software development 
+life cycle and collaborating in fast -paced, cross -functional teams.  
+Skills  
+ 
+Python, Flask, SQLAlchemy , PostgreSQL, MySQL, SQLite , Pytest , HTML5, CSS3, Bootstrap , C (Basic), 
+C++ (Basic/Embedded)  NumPy, Pandas, Matplotlib, Seaborn , yaml, git, github  
+Projects  
+ 
+CRUD Web Application  
+Academic Project | Backend Development  
+• Developed a Flask -based backend implementing CRUD operations using REST -style routes.  
+• Handled request –response cycles and server -side data processing.  
+• Built basic frontend using HTML, CSS, and Bootstrap for interaction testing.  
+Technologies:  Python, Flask, HTML, CSS  
+GitHub: github.com/lily047/ flask_development  
+ 
+Dry Plastic Waste Detection & Segregation System  
+Embedded Systems  
+• Developed a sensor -based prototype  to detect and segregate dry plastic waste using IR 
+sensor readings  and threshold -based classification.  
+• Calibrated IR sensor values through experimentation and defined a baseline to distinguish 
+plastic vs non -plastic  materials.  
+• Implemented embedded C++ logic on Arduino Uno  to process sensor input, control a servo 
+motor , and display real -time system status via the serial console.  
+• Integrated a proximity -based sensor to monitor dustbin fill levels  and detect overflow conditions.  
+• Demonstrated skills in testing, validation, and hardware –software integration  under 
+constrained embedded environments.  
+Technologies:  Arduino Uno, IR Sensor, Proximity/UV Sensor, Servo Motor, C++ (Embedded)  
+GitHub: github.com/lily047/dry -plastic_waste_detection  
+Education  
+ 
+BS in Data Science and Applications  - 2028   
+Indian Institute of Technology Madras   
+ 
+BS in Computer Science  - 2028  
+Delhi University  

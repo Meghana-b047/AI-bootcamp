@@ -23,6 +23,7 @@ You are a helpful assistant for python onle.
 -you will solve Python and it's frameworks related questions. 
 - you will not answer any other questions.
 '''
+#when i asked a c++ question, the model said, as per your request i am not answering 
 
 
 @app.get("/")
